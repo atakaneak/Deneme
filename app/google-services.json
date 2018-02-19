@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990478030962",
+    "firebase_url": "https://deneme1-13fc0.firebaseio.com",
+    "project_id": "deneme1-13fc0",
+    "storage_bucket": "deneme1-13fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990478030962:android:d1b5fce84ecf915e",
+        "android_client_info": {
+          "package_name": "com.example.thegrayfox.deneme1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990478030962-57uvlfaef69qg4k38o69dcl8kqa0bp2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thegrayfox.deneme1",
+            "certificate_hash": "80606a3f0a4e744eea6f08f50f7d3be9b641dadd"
+          }
+        },
+        {
+          "client_id": "990478030962-h7mbi631vjga44ik8m6722iddkr3p58n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBg1pWM9tGDil7QlZRveZIJRlCF62xtqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990478030962-h7mbi631vjga44ik8m6722iddkr3p58n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
